@@ -1,0 +1,1 @@
+A contact management system (CMS) is a software application used to organize and track interactions with contacts, including customers, clients, suppliers, and colleagues. It typically includes features for storing contact information such as names, addresses, phone numbers, and email addresses.
